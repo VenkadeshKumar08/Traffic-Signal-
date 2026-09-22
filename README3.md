@@ -42,7 +42,7 @@ At modern road intersections, automated traffic signal lights are the primary sa
 
 &nbsp;
 
-![][image1](Components 3)
+![][Components](Components 3)
 
 &nbsp;
 
@@ -128,7 +128,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 
 &nbsp;
 
-![][image2](Circuit Diagram 3)
+![][Circuit Diagram](Circuit Diagram 3)
 
 &nbsp;
 
@@ -156,7 +156,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 
 &nbsp;
 
-![][image3](Schematic Diagram 3)
+![][Schematic Diagram](Schematic Diagram 3)
 
 &nbsp;
 
@@ -166,7 +166,7 @@ The loud buzzer alert and notifies the respective officers, indicating the traff
 
 RESULT&nbsp;
 
-![][image4](Result_)
+![][Result](Result_)
 
 &nbsp;
 
